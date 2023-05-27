@@ -8,12 +8,12 @@ The TMDb Movie Fetcher plugin is a WordPress plugin that fetches movie data from
 - **Author:** Chat GPT, Prompts by Digital Malayali 😏
 
 ## Installation
-1. Download the plugin ZIP file.
+1. Download the plugin ZIP file from [Releases](https://github.com/digitalmalayali/TMDb-Movie-Fetcher/releases/tag/v1.0.0).
 2. Log in to your WordPress admin panel.
-3. Go to "Plugins" and click on "Add New."
-4. Click on the "Upload Plugin" button.
-5. Choose the plugin ZIP file and click "Install Now."
-6. After installation, click on "Activate" to activate the plugin.
+3. Go to `Plugins` and click on `Add New`.
+4. Click on the `Upload Plugin` button.
+5. Choose the plugin ZIP file and click `Install Now`.
+6. After installation, click on `Activate` to activate the plugin.
 
 ## Configuration
 1. Obtain a TMDb API key:
